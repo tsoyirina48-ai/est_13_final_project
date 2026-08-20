@@ -4,7 +4,7 @@
 
 ## 🔗 프로젝트 링크
 
-- GitHub: https://github.com/hgkang2/est_13_final_project
+- GitHub: https://github.com/tsoyirina48-ai/est_13_final_project
 - 배포 사이트: https://est-13-final-project.vercel.app/
 
 ## 📌 프로젝트 소개
@@ -169,17 +169,17 @@ MO:UM(모음)은 소비 기록과 저축 목표 관리를 통해 사용자가 �
 
 ## ⚙️ 서비스 구성
 
-| 구분              | 역할                                       |
-| ----------------- | ------------------------------------------ |
-| Next.js           | 페이지 라우팅 및 웹 애플리케이션 구성      |
+| 구분              | 역할                                     |
+| ----------------- | -----------------------------------------|
+| Next.js           | 페이지 라우팅 및 웹 애플리케이션 구성       |
 | React             | 컴포넌트 기반 UI와 상태 관리               |
 | SCSS              | 공통 스타일 및 반응형 화면 구현            |
 | Supabase Auth     | 이메일 및 소셜 로그인 인증                 |
-| Supabase Database | 사용자, 소비 기록, 목표 데이터 저장        |
+| Supabase Database | 사용자, 소비 기록, 목표 데이터 저장         |
 | Supabase Storage  | 영수증 및 목표 이미지 저장                 |
-| ALAN AI           | 소비 분석, 영수증 인식 및 맞춤형 미션 추천 |
-| Chart.js          | 소비 통계와 지출 데이터를 차트로 시각화    |
-| Vercel            | 웹 서비스 배포                             |
+| ALAN AI           | 소비 분석, 영수증 인식 및 맞춤형 미션 추천  |
+| Chart.js          | 소비 통계와 지출 데이터를 차트로 시각화     |
+| Vercel            | 웹 서비스 배포                            |
 
 ## 🗃️ ERD
 
